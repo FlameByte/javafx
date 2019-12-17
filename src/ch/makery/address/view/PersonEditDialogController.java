@@ -1,5 +1,5 @@
 package ch.makery.address.view;
-
+import javafx.scene.image.Image;
 import javafx.fxml.FXML;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
